@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (future ke liye safe)
+node_modules/
+dist/
+build/
+
+# Env files
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Cache
+*.cache
